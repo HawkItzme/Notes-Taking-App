@@ -1,0 +1,8 @@
+# Notes-Taking-App
+This App helps user to Save Notes, Edit and Delete them when not in use.
+---
+I have used MVVM Architecture, ViewModel, LiveData, ROOM DB, CardView, Recycler View and Fragments using Navigations library in this project.
+
+Screen 1                                                                                            |                          Sreen 2                                                            |                                           Screen3                                                   |                                                     Screen4                                          |                                                    Screen5                          
+:--------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------:
+![Screen1](https://github.com/HawkItzme/My-Pics-Repo/blob/main/Notes%20Taking%20App/Screen1.jpeg)   |  ![](https://github.com/HawkItzme/My-Pics-Repo/blob/main/Notes%20Taking%20App/Screen2.jpeg) |  ![](https://github.com/HawkItzme/My-Pics-Repo/blob/main/Notes%20Taking%20App/Search%20Screen.jpeg) | ![](https://github.com/HawkItzme/My-Pics-Repo/blob/main/Notes%20Taking%20App/Screen1%20Updated.jpeg) | ![](https://github.com/HawkItzme/My-Pics-Repo/blob/main/Notes%20Taking%20App/Delete%20Screen.jpeg) 
